@@ -1,4 +1,3 @@
-GNU nano 7.2                                                                                                      cues.cpp
 #include <iostream>
 #include <ncurses.h>
 #include <string>
